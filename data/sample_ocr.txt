@@ -1,0 +1,63 @@
+SPIGM @
+
+Regutarized Distribution Matching Distillation %@ ICML
+
+‘On Machine
+
+: Por One-step Unpaired Image-+o- image "“Tronelatton
+
+LOSE Y
+' os ; Skoltech
+Denis Raxitin, Tyan Shckerotov, Dmitry Vetrov eee | CONSTRUCTOR — Ajyesgroup
+
+Gienerolive Trilesina. Contr ibutions Mnpaired Lmage-to-image
+
+LL HOR: , _
+High ae RDMD ours) Mode collapse
+GAN ( aN Dil usion i ca ( 2 G AN = based C p
+: ; oI : / Ohe - step Outperformed by diffusion
+
+naib LK MWMucte \ Deen DiPfusion-based
+Sampling s Coverage / Distillation x Optimal transport
+£ 4 ge Good realism - Optimal Transport Eat Simulation-based
+— faithfulness tradeof? Schrédinger Bri dge Hard to scale
+
+Dibfusion- based > Mang steps
+
+Sait Tesi Unpaired Image-to- image Translation
+oe SS F F erformance example
+wai Optimal transport (oT) problem r .
+Ego Gie) ~?
+Gee) ~ Pp”
+Diffusion Hodels Distribution Hatching Distillation
+© Xp X+ GE — noisy observations Trin ones step generotor G,(z) eink. trainin
+Training (Denoising Score Mateing ) : (6) . fis KL(4 edt + 2 ( bs J
+' e.)- x, 7 ! 15 Foy = ae ab ys
+: Ip E  seangl YH) xol ae» min | Gdvag I ; P Gy a)+G!
+VY L(0) = (S9C-)- S"C)) Vy Gol) = matt . .
+fee 9 ss LL @)+6,¢) — G,@)] > min
+. Se) a Ye) 7 Valos Ro Replace scl Pa sto A .l Q Ge s) Gee | %
+
+Regularized Distribution Matching Distillation
+
+Modified objective for I2T Comparison. with diffusion baselines
++ L,(0) = [wi KL eT Jat + AES 0) > min
+
+Thm Let G be the optimal strlen oe x and
+G be the OT map. Then, under reg-conditions G a
+
+Input
+
+d»\-0
+
+E (620+ 48)
+{Eloy Frigieraey ** AE. 5 (Get) > my
+
+SDEdit LVR) EGSDE RDMD
+
+2
+
+[RE IQ'G0-6¢)- Geof myn
+
+4.HSE University Noscow, Russia 2. Sxoltech, Moscow, Russia 3. Constructor University, Bremen, Germany
+

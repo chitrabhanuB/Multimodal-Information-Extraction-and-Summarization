@@ -1,0 +1,5846 @@
+{
+  "image_dimensions": {
+    "width": 2036,
+    "height": 2880
+  },
+  "regions": [
+    {
+      "region_id": "region_001",
+      "bounding_box": {
+        "left": 294,
+        "top": 65,
+        "width": 1690,
+        "height": 116
+      },
+      "text": "SPIGM @\nRegutarized Distribution Matching Distillation %@ ICML",
+      "average_confidence": 72.95,
+      "number_of_words": 8,
+      "words": [
+        {
+          "text": "SPIGM",
+          "confidence": 88.329903,
+          "bounding_box": {
+            "left": 1833,
+            "top": 65,
+            "width": 87,
+            "height": 21
+          },
+          "block_num": 3,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "@",
+          "confidence": 88.329903,
+          "bounding_box": {
+            "left": 1930,
+            "top": 65,
+            "width": 24,
+            "height": 27
+          },
+          "block_num": 3,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "Regutarized",
+          "confidence": 37.442379,
+          "bounding_box": {
+            "left": 294,
+            "top": 80,
+            "width": 365,
+            "height": 96
+          },
+          "block_num": 4,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "Matching",
+          "confidence": 90.902809,
+          "bounding_box": {
+            "left": 1060,
+            "top": 85,
+            "width": 248,
+            "height": 96
+          },
+          "block_num": 4,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "Distillation",
+          "confidence": 85.644157,
+          "bounding_box": {
+            "left": 1336,
+            "top": 88,
+            "width": 350,
+            "height": 61
+          },
+          "block_num": 4,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        },
+        {
+          "text": "Distribution",
+          "confidence": 93.401657,
+          "bounding_box": {
+            "left": 685,
+            "top": 90,
+            "width": 352,
+            "height": 59
+          },
+          "block_num": 4,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "%@",
+          "confidence": 24.476654,
+          "bounding_box": {
+            "left": 1728,
+            "top": 92,
+            "width": 86,
+            "height": 85
+          },
+          "block_num": 4,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        },
+        {
+          "text": "ICML",
+          "confidence": 75.09774,
+          "bounding_box": {
+            "left": 1833,
+            "top": 98,
+            "width": 151,
+            "height": 43
+          },
+          "block_num": 4,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_002",
+      "bounding_box": {
+        "left": 63,
+        "top": 156,
+        "width": 21,
+        "height": 20
+      },
+      "text": ":",
+      "average_confidence": 12.66,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": ":",
+          "confidence": 12.663383,
+          "bounding_box": {
+            "left": 63,
+            "top": 156,
+            "width": 21,
+            "height": 20
+          },
+          "block_num": 6,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_003",
+      "bounding_box": {
+        "left": 219,
+        "top": 164,
+        "width": 1688,
+        "height": 118
+      },
+      "text": "Por One-step Unpaired Image-+o- image \"“Tronelatton\n‘On Machine",
+      "average_confidence": 75.33,
+      "number_of_words": 8,
+      "words": [
+        {
+          "text": "Por",
+          "confidence": 85.291359,
+          "bounding_box": {
+            "left": 219,
+            "top": 164,
+            "width": 97,
+            "height": 80
+          },
+          "block_num": 6,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "‘On",
+          "confidence": 82.871841,
+          "bounding_box": {
+            "left": 1833,
+            "top": 164,
+            "width": 18,
+            "height": 10
+          },
+          "block_num": 5,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "Machine",
+          "confidence": 94.663971,
+          "bounding_box": {
+            "left": 1855,
+            "top": 165,
+            "width": 52,
+            "height": 9
+          },
+          "block_num": 5,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "\"“Tronelatton",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1468,
+            "top": 175,
+            "width": 365,
+            "height": 81
+          },
+          "block_num": 6,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 7
+        },
+        {
+          "text": "One-step",
+          "confidence": 90.207527,
+          "bounding_box": {
+            "left": 344,
+            "top": 179,
+            "width": 268,
+            "height": 102
+          },
+          "block_num": 6,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "Unpaired",
+          "confidence": 91.829735,
+          "bounding_box": {
+            "left": 643,
+            "top": 180,
+            "width": 281,
+            "height": 102
+          },
+          "block_num": 6,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        },
+        {
+          "text": "Image-+o-",
+          "confidence": 68.460724,
+          "bounding_box": {
+            "left": 954,
+            "top": 181,
+            "width": 329,
+            "height": 100
+          },
+          "block_num": 6,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        },
+        {
+          "text": "image",
+          "confidence": 89.349075,
+          "bounding_box": {
+            "left": 1310,
+            "top": 196,
+            "width": 144,
+            "height": 76
+          },
+          "block_num": 6,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_004",
+      "bounding_box": {
+        "left": 1308,
+        "top": 280,
+        "width": 76,
+        "height": 24
+      },
+      "text": "LOSE Y",
+      "average_confidence": 39.37,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "LOSE",
+          "confidence": 32.343567,
+          "bounding_box": {
+            "left": 1308,
+            "top": 280,
+            "width": 51,
+            "height": 24
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "Y",
+          "confidence": 46.397865,
+          "bounding_box": {
+            "left": 1371,
+            "top": 286,
+            "width": 13,
+            "height": 13
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_005",
+      "bounding_box": {
+        "left": 1457,
+        "top": 291,
+        "width": 232,
+        "height": 39
+      },
+      "text": "Skoltech",
+      "average_confidence": 91.2,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Skoltech",
+          "confidence": 91.199806,
+          "bounding_box": {
+            "left": 1457,
+            "top": 291,
+            "width": 232,
+            "height": 39
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_006",
+      "bounding_box": {
+        "left": 84,
+        "top": 332,
+        "width": 1046,
+        "height": 85
+      },
+      "text": "Denis Raxitin, Tyan Shckerotov, Dmitry Vetrov\n' os ;",
+      "average_confidence": 37.39,
+      "number_of_words": 9,
+      "words": [
+        {
+          "text": "Raxitin,",
+          "confidence": 37.172661,
+          "bounding_box": {
+            "left": 227,
+            "top": 332,
+            "width": 162,
+            "height": 68
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 2
+        },
+        {
+          "text": "'",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 360,
+            "top": 333,
+            "width": 12,
+            "height": 17
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 1
+        },
+        {
+          "text": "Vetrov",
+          "confidence": 90.008987,
+          "bounding_box": {
+            "left": 973,
+            "top": 333,
+            "width": 157,
+            "height": 67
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 6
+        },
+        {
+          "text": "Denis",
+          "confidence": 37.172661,
+          "bounding_box": {
+            "left": 84,
+            "top": 336,
+            "width": 126,
+            "height": 54
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 1
+        },
+        {
+          "text": "Dmitry",
+          "confidence": 95.67231,
+          "bounding_box": {
+            "left": 819,
+            "top": 336,
+            "width": 146,
+            "height": 81
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 5
+        },
+        {
+          "text": ";",
+          "confidence": 37.854866,
+          "bounding_box": {
+            "left": 1116,
+            "top": 336,
+            "width": 14,
+            "height": 18
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 3
+        },
+        {
+          "text": "os",
+          "confidence": 16.192131,
+          "bounding_box": {
+            "left": 750,
+            "top": 337,
+            "width": 32,
+            "height": 14
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 2
+        },
+        {
+          "text": "Tyan",
+          "confidence": 22.411514,
+          "bounding_box": {
+            "left": 404,
+            "top": 338,
+            "width": 108,
+            "height": 50
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 3
+        },
+        {
+          "text": "Shckerotov,",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 534,
+            "top": 340,
+            "width": 258,
+            "height": 58
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_007",
+      "bounding_box": {
+        "left": 1303,
+        "top": 345,
+        "width": 671,
+        "height": 60
+      },
+      "text": "eee | CONSTRUCTOR — Ajyesgroup",
+      "average_confidence": 40.19,
+      "number_of_words": 5,
+      "words": [
+        {
+          "text": "|",
+          "confidence": 44.726101,
+          "bounding_box": {
+            "left": 1434,
+            "top": 345,
+            "width": 5,
+            "height": 60
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 8
+        },
+        {
+          "text": "—",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1709,
+            "top": 345,
+            "width": 20,
+            "height": 60
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 10
+        },
+        {
+          "text": "Ajyesgroup",
+          "confidence": 85.362915,
+          "bounding_box": {
+            "left": 1776,
+            "top": 348,
+            "width": 198,
+            "height": 54
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 11
+        },
+        {
+          "text": "eee",
+          "confidence": 26.143257,
+          "bounding_box": {
+            "left": 1303,
+            "top": 349,
+            "width": 107,
+            "height": 50
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 7
+        },
+        {
+          "text": "CONSTRUCTOR",
+          "confidence": 44.726101,
+          "bounding_box": {
+            "left": 1457,
+            "top": 352,
+            "width": 232,
+            "height": 49
+          },
+          "block_num": 7,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 9
+        }
+      ]
+    },
+    {
+      "region_id": "region_008",
+      "bounding_box": {
+        "left": 827,
+        "top": 477,
+        "width": 332,
+        "height": 52
+      },
+      "text": "Contr ibutions",
+      "average_confidence": 93.62,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "Contr",
+          "confidence": 95.386589,
+          "bounding_box": {
+            "left": 827,
+            "top": 477,
+            "width": 140,
+            "height": 52
+          },
+          "block_num": 10,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "ibutions",
+          "confidence": 91.859192,
+          "bounding_box": {
+            "left": 972,
+            "top": 481,
+            "width": 187,
+            "height": 47
+          },
+          "block_num": 10,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_009",
+      "bounding_box": {
+        "left": 1422,
+        "top": 498,
+        "width": 422,
+        "height": 63
+      },
+      "text": "Mnpaired Lmage-to-image",
+      "average_confidence": 58.82,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "Lmage-to-image",
+          "confidence": 47.616344,
+          "bounding_box": {
+            "left": 1586,
+            "top": 498,
+            "width": 258,
+            "height": 63
+          },
+          "block_num": 10,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        },
+        {
+          "text": "Mnpaired",
+          "confidence": 70.02758,
+          "bounding_box": {
+            "left": 1422,
+            "top": 502,
+            "width": 151,
+            "height": 58
+          },
+          "block_num": 10,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_010",
+      "bounding_box": {
+        "left": 188,
+        "top": 503,
+        "width": 313,
+        "height": 36
+      },
+      "text": "Gienerolive Trilesina.",
+      "average_confidence": 6.84,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "Gienerolive",
+          "confidence": 13.680573,
+          "bounding_box": {
+            "left": 188,
+            "top": 503,
+            "width": 171,
+            "height": 36
+          },
+          "block_num": 10,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "Trilesina.",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 365,
+            "top": 507,
+            "width": 136,
+            "height": 31
+          },
+          "block_num": 10,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_011",
+      "bounding_box": {
+        "left": 622,
+        "top": 563,
+        "width": 164,
+        "height": 55
+      },
+      "text": "HOR: ,\nae",
+      "average_confidence": 33.07,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "HOR:",
+          "confidence": 44.463902,
+          "bounding_box": {
+            "left": 622,
+            "top": 563,
+            "width": 29,
+            "height": 30
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "ae",
+          "confidence": 25.227264,
+          "bounding_box": {
+            "left": 680,
+            "top": 596,
+            "width": 98,
+            "height": 22
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 2
+        },
+        {
+          "text": ",",
+          "confidence": 29.509972,
+          "bounding_box": {
+            "left": 783,
+            "top": 596,
+            "width": 3,
+            "height": 1
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_012",
+      "bounding_box": {
+        "left": 148,
+        "top": 565,
+        "width": 199,
+        "height": 106
+      },
+      "text": "LL\n( aN\nHigh",
+      "average_confidence": 38.15,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "LL",
+          "confidence": 26.837494,
+          "bounding_box": {
+            "left": 177,
+            "top": 565,
+            "width": 104,
+            "height": 36
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "aN",
+          "confidence": 28.819687,
+          "bounding_box": {
+            "left": 202,
+            "top": 577,
+            "width": 145,
+            "height": 94
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 3
+        },
+        {
+          "text": "High",
+          "confidence": 85.077095,
+          "bounding_box": {
+            "left": 215,
+            "top": 594,
+            "width": 60,
+            "height": 23
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 1
+        },
+        {
+          "text": "(",
+          "confidence": 11.876175,
+          "bounding_box": {
+            "left": 148,
+            "top": 597,
+            "width": 34,
+            "height": 70
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_013",
+      "bounding_box": {
+        "left": 1341,
+        "top": 574,
+        "width": 37,
+        "height": 10
+      },
+      "text": "_",
+      "average_confidence": 16.08,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "_",
+          "confidence": 16.079826,
+          "bounding_box": {
+            "left": 1341,
+            "top": 574,
+            "width": 37,
+            "height": 10
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_014",
+      "bounding_box": {
+        "left": 889,
+        "top": 576,
+        "width": 205,
+        "height": 44
+      },
+      "text": "RDMD ours)\n(",
+      "average_confidence": 87.1,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "ours)",
+          "confidence": 96.547142,
+          "bounding_box": {
+            "left": 1017,
+            "top": 576,
+            "width": 77,
+            "height": 43
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 4
+        },
+        {
+          "text": "(",
+          "confidence": 76.388969,
+          "bounding_box": {
+            "left": 1005,
+            "top": 577,
+            "width": 17,
+            "height": 43
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 8
+        },
+        {
+          "text": "RDMD",
+          "confidence": 88.349419,
+          "bounding_box": {
+            "left": 889,
+            "top": 579,
+            "width": 107,
+            "height": 35
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_015",
+      "bounding_box": {
+        "left": 1568,
+        "top": 578,
+        "width": 200,
+        "height": 86
+      },
+      "text": "Mode collapse\nC p",
+      "average_confidence": 37.18,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Mode",
+          "confidence": 91.211761,
+          "bounding_box": {
+            "left": 1601,
+            "top": 578,
+            "width": 58,
+            "height": 29
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 5
+        },
+        {
+          "text": "collapse",
+          "confidence": 12.500038,
+          "bounding_box": {
+            "left": 1670,
+            "top": 586,
+            "width": 98,
+            "height": 21
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 6
+        },
+        {
+          "text": "p",
+          "confidence": 45.027241,
+          "bounding_box": {
+            "left": 1728,
+            "top": 593,
+            "width": 14,
+            "height": 29
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 15
+        },
+        {
+          "text": "C",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1568,
+            "top": 606,
+            "width": 24,
+            "height": 58
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 14
+        }
+      ]
+    },
+    {
+      "region_id": "region_016",
+      "bounding_box": {
+        "left": 1338,
+        "top": 608,
+        "width": 573,
+        "height": 87
+      },
+      "text": "2 G AN = based\nOutperformed by diffusion",
+      "average_confidence": 74.88,
+      "number_of_words": 8,
+      "words": [
+        {
+          "text": "G",
+          "confidence": 88.554657,
+          "bounding_box": {
+            "left": 1383,
+            "top": 608,
+            "width": 27,
+            "height": 38
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 10
+        },
+        {
+          "text": "based",
+          "confidence": 96.528549,
+          "bounding_box": {
+            "left": 1479,
+            "top": 609,
+            "width": 73,
+            "height": 34
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 13
+        },
+        {
+          "text": "AN",
+          "confidence": 96.623962,
+          "bounding_box": {
+            "left": 1416,
+            "top": 610,
+            "width": 40,
+            "height": 33
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 11
+        },
+        {
+          "text": "2",
+          "confidence": 33.546196,
+          "bounding_box": {
+            "left": 1338,
+            "top": 623,
+            "width": 6,
+            "height": 5
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 9
+        },
+        {
+          "text": "=",
+          "confidence": 44.531136,
+          "bounding_box": {
+            "left": 1463,
+            "top": 626,
+            "width": 9,
+            "height": 4
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 12
+        },
+        {
+          "text": "Outperformed",
+          "confidence": 76.999931,
+          "bounding_box": {
+            "left": 1599,
+            "top": 645,
+            "width": 152,
+            "height": 50
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 9
+        },
+        {
+          "text": "diffusion",
+          "confidence": 65.339958,
+          "bounding_box": {
+            "left": 1802,
+            "top": 645,
+            "width": 109,
+            "height": 31
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 11
+        },
+        {
+          "text": "by",
+          "confidence": 96.917618,
+          "bounding_box": {
+            "left": 1761,
+            "top": 646,
+            "width": 28,
+            "height": 46
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 10
+        }
+      ]
+    },
+    {
+      "region_id": "region_017",
+      "bounding_box": {
+        "left": 553,
+        "top": 618,
+        "width": 126,
+        "height": 40
+      },
+      "text": "i ca",
+      "average_confidence": 8.16,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "ca",
+          "confidence": 16.31781,
+          "bounding_box": {
+            "left": 621,
+            "top": 618,
+            "width": 58,
+            "height": 40
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 7
+        },
+        {
+          "text": "i",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 553,
+            "top": 619,
+            "width": 25,
+            "height": 9
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_018",
+      "bounding_box": {
+        "left": 83,
+        "top": 623,
+        "width": 55,
+        "height": 25
+      },
+      "text": "GAN",
+      "average_confidence": 96.24,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "GAN",
+          "confidence": 96.241409,
+          "bounding_box": {
+            "left": 83,
+            "top": 623,
+            "width": 55,
+            "height": 25
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_019",
+      "bounding_box": {
+        "left": 361,
+        "top": 623,
+        "width": 134,
+        "height": 28
+      },
+      "text": "Dil usion",
+      "average_confidence": 17.42,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "Dil",
+          "confidence": 17.42392,
+          "bounding_box": {
+            "left": 361,
+            "top": 623,
+            "width": 48,
+            "height": 28
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 4
+        },
+        {
+          "text": "usion",
+          "confidence": 17.42392,
+          "bounding_box": {
+            "left": 421,
+            "top": 624,
+            "width": 74,
+            "height": 25
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_020",
+      "bounding_box": {
+        "left": 813,
+        "top": 644,
+        "width": 61,
+        "height": 54
+      },
+      "text": "Ohe",
+      "average_confidence": 80.28,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Ohe",
+          "confidence": 80.276711,
+          "bounding_box": {
+            "left": 813,
+            "top": 644,
+            "width": 61,
+            "height": 54
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_021",
+      "bounding_box": {
+        "left": 260,
+        "top": 653,
+        "width": 120,
+        "height": 67
+      },
+      "text": "; oI :",
+      "average_confidence": 13.49,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "oI",
+          "confidence": 32.238457,
+          "bounding_box": {
+            "left": 282,
+            "top": 653,
+            "width": 90,
+            "height": 67
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 3
+        },
+        {
+          "text": ";",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 260,
+            "top": 681,
+            "width": 5,
+            "height": 3
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 2
+        },
+        {
+          "text": ":",
+          "confidence": 8.232437,
+          "bounding_box": {
+            "left": 372,
+            "top": 694,
+            "width": 8,
+            "height": 6
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_022",
+      "bounding_box": {
+        "left": 883,
+        "top": 655,
+        "width": 81,
+        "height": 52
+      },
+      "text": "- step",
+      "average_confidence": 91.33,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "step",
+          "confidence": 96.94001,
+          "bounding_box": {
+            "left": 902,
+            "top": 655,
+            "width": 62,
+            "height": 52
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 8
+        },
+        {
+          "text": "-",
+          "confidence": 85.728752,
+          "bounding_box": {
+            "left": 883,
+            "top": 677,
+            "width": 12,
+            "height": 4
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 7
+        }
+      ]
+    },
+    {
+      "region_id": "region_023",
+      "bounding_box": {
+        "left": 590,
+        "top": 658,
+        "width": 30,
+        "height": 35
+      },
+      "text": "/",
+      "average_confidence": 57.79,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "/",
+          "confidence": 57.791336,
+          "bounding_box": {
+            "left": 590,
+            "top": 658,
+            "width": 30,
+            "height": 35
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_024",
+      "bounding_box": {
+        "left": 158,
+        "top": 672,
+        "width": 2,
+        "height": 2
+      },
+      "text": ":",
+      "average_confidence": 12.86,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": ":",
+          "confidence": 12.862915,
+          "bounding_box": {
+            "left": 158,
+            "top": 672,
+            "width": 2,
+            "height": 2
+          },
+          "block_num": 11,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_025",
+      "bounding_box": {
+        "left": 813,
+        "top": 706,
+        "width": 240,
+        "height": 77
+      },
+      "text": "DiPfusion-based",
+      "average_confidence": 19.52,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "DiPfusion-based",
+          "confidence": 19.51712,
+          "bounding_box": {
+            "left": 813,
+            "top": 706,
+            "width": 240,
+            "height": 77
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_026",
+      "bounding_box": {
+        "left": 127,
+        "top": 721,
+        "width": 464,
+        "height": 61
+      },
+      "text": "naib LK MWMucte \\ Deen",
+      "average_confidence": 22.8,
+      "number_of_words": 5,
+      "words": [
+        {
+          "text": "LK",
+          "confidence": 22.54892,
+          "bounding_box": {
+            "left": 211,
+            "top": 721,
+            "width": 51,
+            "height": 61
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "MWMucte",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 277,
+            "top": 721,
+            "width": 95,
+            "height": 61
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "naib",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 127,
+            "top": 722,
+            "width": 54,
+            "height": 51
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "Deen",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 457,
+            "top": 724,
+            "width": 134,
+            "height": 57
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        },
+        {
+          "text": "\\",
+          "confidence": 91.453384,
+          "bounding_box": {
+            "left": 395,
+            "top": 727,
+            "width": 12,
+            "height": 47
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_027",
+      "bounding_box": {
+        "left": 1386,
+        "top": 727,
+        "width": 232,
+        "height": 48
+      },
+      "text": "Dibfusion- based",
+      "average_confidence": 48.47,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "based",
+          "confidence": 96.935455,
+          "bounding_box": {
+            "left": 1546,
+            "top": 727,
+            "width": 72,
+            "height": 48
+          },
+          "block_num": 13,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "Dibfusion-",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1386,
+            "top": 731,
+            "width": 148,
+            "height": 36
+          },
+          "block_num": 13,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_028",
+      "bounding_box": {
+        "left": 1676,
+        "top": 738,
+        "width": 133,
+        "height": 50
+      },
+      "text": "Mang steps",
+      "average_confidence": 84.89,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "Mang",
+          "confidence": 74.593094,
+          "bounding_box": {
+            "left": 1676,
+            "top": 738,
+            "width": 68,
+            "height": 50
+          },
+          "block_num": 13,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        },
+        {
+          "text": "steps",
+          "confidence": 95.192322,
+          "bounding_box": {
+            "left": 1753,
+            "top": 746,
+            "width": 56,
+            "height": 33
+          },
+          "block_num": 13,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_029",
+      "bounding_box": {
+        "left": 1634,
+        "top": 752,
+        "width": 25,
+        "height": 13
+      },
+      "text": ">",
+      "average_confidence": 23.91,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": ">",
+          "confidence": 23.907448,
+          "bounding_box": {
+            "left": 1634,
+            "top": 752,
+            "width": 25,
+            "height": 13
+          },
+          "block_num": 13,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_030",
+      "bounding_box": {
+        "left": 818,
+        "top": 765,
+        "width": 324,
+        "height": 58
+      },
+      "text": "x Optimal transport",
+      "average_confidence": 92.97,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Optimal",
+          "confidence": 95.582481,
+          "bounding_box": {
+            "left": 847,
+            "top": 765,
+            "width": 139,
+            "height": 53
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 7
+        },
+        {
+          "text": "transport",
+          "confidence": 95.445549,
+          "bounding_box": {
+            "left": 1002,
+            "top": 766,
+            "width": 140,
+            "height": 57
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 8
+        },
+        {
+          "text": "x",
+          "confidence": 87.871353,
+          "bounding_box": {
+            "left": 818,
+            "top": 774,
+            "width": 19,
+            "height": 20
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_031",
+      "bounding_box": {
+        "left": 108,
+        "top": 772,
+        "width": 92,
+        "height": 42
+      },
+      "text": "Sampling",
+      "average_confidence": 31.29,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Sampling",
+          "confidence": 31.294121,
+          "bounding_box": {
+            "left": 108,
+            "top": 772,
+            "width": 92,
+            "height": 42
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_032",
+      "bounding_box": {
+        "left": 269,
+        "top": 777,
+        "width": 135,
+        "height": 40
+      },
+      "text": "s Coverage /",
+      "average_confidence": 48.96,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Coverage",
+          "confidence": 73.442703,
+          "bounding_box": {
+            "left": 300,
+            "top": 777,
+            "width": 84,
+            "height": 38
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 3
+        },
+        {
+          "text": "s",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 269,
+            "top": 779,
+            "width": 25,
+            "height": 35
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 2
+        },
+        {
+          "text": "/",
+          "confidence": 73.442703,
+          "bounding_box": {
+            "left": 396,
+            "top": 783,
+            "width": 8,
+            "height": 34
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_033",
+      "bounding_box": {
+        "left": 459,
+        "top": 787,
+        "width": 140,
+        "height": 33
+      },
+      "text": "Distillation",
+      "average_confidence": 95.83,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Distillation",
+          "confidence": 95.828072,
+          "bounding_box": {
+            "left": 459,
+            "top": 787,
+            "width": 140,
+            "height": 33
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_034",
+      "bounding_box": {
+        "left": 815,
+        "top": 815,
+        "width": 229,
+        "height": 52
+      },
+      "text": "Good realism -",
+      "average_confidence": 78.23,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Good",
+          "confidence": 95.287575,
+          "bounding_box": {
+            "left": 815,
+            "top": 815,
+            "width": 80,
+            "height": 52
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 4
+        },
+        {
+          "text": "realism",
+          "confidence": 63.333229,
+          "bounding_box": {
+            "left": 901,
+            "top": 818,
+            "width": 115,
+            "height": 47
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 5
+        },
+        {
+          "text": "-",
+          "confidence": 76.073166,
+          "bounding_box": {
+            "left": 1022,
+            "top": 844,
+            "width": 22,
+            "height": 5
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_035",
+      "bounding_box": {
+        "left": 380,
+        "top": 818,
+        "width": 10,
+        "height": 13
+      },
+      "text": "4",
+      "average_confidence": 79.17,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "4",
+          "confidence": 79.167389,
+          "bounding_box": {
+            "left": 380,
+            "top": 818,
+            "width": 10,
+            "height": 13
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_036",
+      "bounding_box": {
+        "left": 1389,
+        "top": 820,
+        "width": 535,
+        "height": 71
+      },
+      "text": "Optimal Transport Eat Simulation-based",
+      "average_confidence": 72.44,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Optimal",
+          "confidence": 95.529602,
+          "bounding_box": {
+            "left": 1389,
+            "top": 820,
+            "width": 108,
+            "height": 51
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 7
+        },
+        {
+          "text": "Transport",
+          "confidence": 96.315018,
+          "bounding_box": {
+            "left": 1504,
+            "top": 822,
+            "width": 117,
+            "height": 50
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 8
+        },
+        {
+          "text": "Simulation-based",
+          "confidence": 91.993271,
+          "bounding_box": {
+            "left": 1711,
+            "top": 826,
+            "width": 213,
+            "height": 30
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 10
+        },
+        {
+          "text": "Eat",
+          "confidence": 5.930023,
+          "bounding_box": {
+            "left": 1645,
+            "top": 843,
+            "width": 44,
+            "height": 48
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 9
+        }
+      ]
+    },
+    {
+      "region_id": "region_037",
+      "bounding_box": {
+        "left": 502,
+        "top": 821,
+        "width": 25,
+        "height": 29
+      },
+      "text": "ge",
+      "average_confidence": 15.35,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "ge",
+          "confidence": 15.34787,
+          "bounding_box": {
+            "left": 502,
+            "top": 821,
+            "width": 25,
+            "height": 29
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_038",
+      "bounding_box": {
+        "left": 257,
+        "top": 848,
+        "width": 2,
+        "height": 2
+      },
+      "text": "£",
+      "average_confidence": 46.51,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "£",
+          "confidence": 46.505245,
+          "bounding_box": {
+            "left": 257,
+            "top": 848,
+            "width": 2,
+            "height": 2
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_039",
+      "bounding_box": {
+        "left": 1392,
+        "top": 863,
+        "width": 249,
+        "height": 58
+      },
+      "text": "Schrédinger Bri dge",
+      "average_confidence": 82.66,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Schrédinger",
+          "confidence": 69.25116,
+          "bounding_box": {
+            "left": 1392,
+            "top": 863,
+            "width": 154,
+            "height": 58
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 4
+        },
+        {
+          "text": "Bri",
+          "confidence": 96.307747,
+          "bounding_box": {
+            "left": 1553,
+            "top": 863,
+            "width": 37,
+            "height": 42
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 5
+        },
+        {
+          "text": "dge",
+          "confidence": 82.407646,
+          "bounding_box": {
+            "left": 1596,
+            "top": 870,
+            "width": 45,
+            "height": 40
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_040",
+      "bounding_box": {
+        "left": 1713,
+        "top": 870,
+        "width": 159,
+        "height": 26
+      },
+      "text": "Hard to scale",
+      "average_confidence": 93.92,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Hard",
+          "confidence": 96.733246,
+          "bounding_box": {
+            "left": 1713,
+            "top": 870,
+            "width": 54,
+            "height": 26
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 7
+        },
+        {
+          "text": "scale",
+          "confidence": 89.451393,
+          "bounding_box": {
+            "left": 1812,
+            "top": 871,
+            "width": 60,
+            "height": 24
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 9
+        },
+        {
+          "text": "to",
+          "confidence": 95.568222,
+          "bounding_box": {
+            "left": 1776,
+            "top": 873,
+            "width": 26,
+            "height": 23
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 8
+        }
+      ]
+    },
+    {
+      "region_id": "region_041",
+      "bounding_box": {
+        "left": 865,
+        "top": 872,
+        "width": 371,
+        "height": 37
+      },
+      "text": "— faithfulness tradeof?",
+      "average_confidence": 19.52,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "faithfulness",
+          "confidence": 0.483246,
+          "bounding_box": {
+            "left": 893,
+            "top": 872,
+            "width": 194,
+            "height": 36
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 2
+        },
+        {
+          "text": "tradeof?",
+          "confidence": 10.042252,
+          "bounding_box": {
+            "left": 1099,
+            "top": 875,
+            "width": 137,
+            "height": 34
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 3
+        },
+        {
+          "text": "—",
+          "confidence": 48.028625,
+          "bounding_box": {
+            "left": 865,
+            "top": 895,
+            "width": 22,
+            "height": 5
+          },
+          "block_num": 12,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_042",
+      "bounding_box": {
+        "left": 540,
+        "top": 978,
+        "width": 954,
+        "height": 86
+      },
+      "text": "Unpaired Image-to- image Translation\nF F",
+      "average_confidence": 66.3,
+      "number_of_words": 6,
+      "words": [
+        {
+          "text": "Translation",
+          "confidence": 93.534294,
+          "bounding_box": {
+            "left": 1205,
+            "top": 978,
+            "width": 289,
+            "height": 68
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        },
+        {
+          "text": "Unpaired",
+          "confidence": 88.342125,
+          "bounding_box": {
+            "left": 540,
+            "top": 982,
+            "width": 227,
+            "height": 53
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "Image-to-",
+          "confidence": 75.128723,
+          "bounding_box": {
+            "left": 789,
+            "top": 983,
+            "width": 267,
+            "height": 51
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        },
+        {
+          "text": "image",
+          "confidence": 96.48848,
+          "bounding_box": {
+            "left": 1069,
+            "top": 991,
+            "width": 122,
+            "height": 69
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        },
+        {
+          "text": "F",
+          "confidence": 44.277744,
+          "bounding_box": {
+            "left": 617,
+            "top": 1008,
+            "width": 23,
+            "height": 56
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 3
+        },
+        {
+          "text": "F",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 898,
+            "top": 1010,
+            "width": 61,
+            "height": 53
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_043",
+      "bounding_box": {
+        "left": 158,
+        "top": 1000,
+        "width": 55,
+        "height": 51
+      },
+      "text": "Sait",
+      "average_confidence": 21.73,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Sait",
+          "confidence": 21.728912,
+          "bounding_box": {
+            "left": 158,
+            "top": 1000,
+            "width": 55,
+            "height": 51
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_044",
+      "bounding_box": {
+        "left": 426,
+        "top": 1000,
+        "width": 53,
+        "height": 51
+      },
+      "text": "Tesi",
+      "average_confidence": 31.83,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Tesi",
+          "confidence": 31.834358,
+          "bounding_box": {
+            "left": 426,
+            "top": 1000,
+            "width": 53,
+            "height": 51
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_045",
+      "bounding_box": {
+        "left": 350,
+        "top": 1034,
+        "width": 79,
+        "height": 62
+      },
+      "text": "SS\nwai",
+      "average_confidence": 7.08,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "SS",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 410,
+            "top": 1034,
+            "width": 19,
+            "height": 62
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 2
+        },
+        {
+          "text": "wai",
+          "confidence": 14.16777,
+          "bounding_box": {
+            "left": 350,
+            "top": 1072,
+            "width": 66,
+            "height": 13
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_046",
+      "bounding_box": {
+        "left": 98,
+        "top": 1038,
+        "width": 130,
+        "height": 27
+      },
+      "text": "oe",
+      "average_confidence": 13.37,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "oe",
+          "confidence": 13.367935,
+          "bounding_box": {
+            "left": 98,
+            "top": 1038,
+            "width": 130,
+            "height": 27
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_047",
+      "bounding_box": {
+        "left": 1555,
+        "top": 1038,
+        "width": 387,
+        "height": 53
+      },
+      "text": "erformance example\nr",
+      "average_confidence": 32.92,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "erformance",
+          "confidence": 7.062042,
+          "bounding_box": {
+            "left": 1555,
+            "top": 1038,
+            "width": 219,
+            "height": 41
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 5
+        },
+        {
+          "text": "example",
+          "confidence": 91.692001,
+          "bounding_box": {
+            "left": 1791,
+            "top": 1046,
+            "width": 151,
+            "height": 31
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 6
+        },
+        {
+          "text": "r",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1889,
+            "top": 1057,
+            "width": 17,
+            "height": 34
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_048",
+      "bounding_box": {
+        "left": 738,
+        "top": 1067,
+        "width": 562,
+        "height": 65
+      },
+      "text": "Optimal transport (oT) problem",
+      "average_confidence": 93.06,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Optimal",
+          "confidence": 93.797241,
+          "bounding_box": {
+            "left": 738,
+            "top": 1067,
+            "width": 141,
+            "height": 61
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 2
+        },
+        {
+          "text": "(oT)",
+          "confidence": 92.423798,
+          "bounding_box": {
+            "left": 1086,
+            "top": 1072,
+            "width": 62,
+            "height": 39
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 4
+        },
+        {
+          "text": "problem",
+          "confidence": 90.657051,
+          "bounding_box": {
+            "left": 1164,
+            "top": 1074,
+            "width": 136,
+            "height": 58
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 5
+        },
+        {
+          "text": "transport",
+          "confidence": 95.367416,
+          "bounding_box": {
+            "left": 907,
+            "top": 1076,
+            "width": 167,
+            "height": 52
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_049",
+      "bounding_box": {
+        "left": 1938,
+        "top": 1102,
+        "width": 10,
+        "height": 15
+      },
+      "text": ".",
+      "average_confidence": 2.82,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 2.820236,
+          "bounding_box": {
+            "left": 1938,
+            "top": 1102,
+            "width": 10,
+            "height": 15
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 3,
+          "word_num": 7
+        }
+      ]
+    },
+    {
+      "region_id": "region_050",
+      "bounding_box": {
+        "left": 835,
+        "top": 1132,
+        "width": 251,
+        "height": 81
+      },
+      "text": "Ego Gie)",
+      "average_confidence": 12.54,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "Gie)",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 994,
+            "top": 1132,
+            "width": 92,
+            "height": 49
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 2
+        },
+        {
+          "text": "Ego",
+          "confidence": 25.088432,
+          "bounding_box": {
+            "left": 835,
+            "top": 1135,
+            "width": 137,
+            "height": 78
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_051",
+      "bounding_box": {
+        "left": 1106,
+        "top": 1149,
+        "width": 117,
+        "height": 55
+      },
+      "text": "~?",
+      "average_confidence": 0.0,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "~?",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1106,
+            "top": 1149,
+            "width": 117,
+            "height": 55
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 4,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_052",
+      "bounding_box": {
+        "left": 834,
+        "top": 1232,
+        "width": 163,
+        "height": 63
+      },
+      "text": "Gee) ~ Pp”",
+      "average_confidence": 60.11,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Pp”",
+          "confidence": 47.837582,
+          "bounding_box": {
+            "left": 958,
+            "top": 1232,
+            "width": 39,
+            "height": 63
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 5,
+          "word_num": 3
+        },
+        {
+          "text": "Gee)",
+          "confidence": 41.167099,
+          "bounding_box": {
+            "left": 834,
+            "top": 1241,
+            "width": 83,
+            "height": 35
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 5,
+          "word_num": 1
+        },
+        {
+          "text": "~",
+          "confidence": 91.313156,
+          "bounding_box": {
+            "left": 929,
+            "top": 1257,
+            "width": 18,
+            "height": 9
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 5,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_053",
+      "bounding_box": {
+        "left": 995,
+        "top": 1340,
+        "width": 759,
+        "height": 74
+      },
+      "text": "Distribution Hatching Distillation",
+      "average_confidence": 82.82,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Distribution",
+          "confidence": 93.96701,
+          "bounding_box": {
+            "left": 995,
+            "top": 1340,
+            "width": 271,
+            "height": 62
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 6,
+          "word_num": 3
+        },
+        {
+          "text": "Hatching",
+          "confidence": 66.470245,
+          "bounding_box": {
+            "left": 1281,
+            "top": 1344,
+            "width": 186,
+            "height": 70
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 6,
+          "word_num": 4
+        },
+        {
+          "text": "Distillation",
+          "confidence": 88.028885,
+          "bounding_box": {
+            "left": 1483,
+            "top": 1346,
+            "width": 271,
+            "height": 46
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 6,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_054",
+      "bounding_box": {
+        "left": 156,
+        "top": 1343,
+        "width": 402,
+        "height": 48
+      },
+      "text": "Diffusion Hodels",
+      "average_confidence": 50.11,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "Diffusion",
+          "confidence": 34.134575,
+          "bounding_box": {
+            "left": 156,
+            "top": 1343,
+            "width": 228,
+            "height": 48
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 6,
+          "word_num": 1
+        },
+        {
+          "text": "Hodels",
+          "confidence": 66.089516,
+          "bounding_box": {
+            "left": 411,
+            "top": 1346,
+            "width": 147,
+            "height": 43
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 6,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_055",
+      "bounding_box": {
+        "left": 748,
+        "top": 1418,
+        "width": 521,
+        "height": 76
+      },
+      "text": "Trin ones step generotor G,(z)",
+      "average_confidence": 32.94,
+      "number_of_words": 5,
+      "words": [
+        {
+          "text": "generotor",
+          "confidence": 5.281479,
+          "bounding_box": {
+            "left": 1009,
+            "top": 1418,
+            "width": 157,
+            "height": 76
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 11
+        },
+        {
+          "text": "step",
+          "confidence": 95.075623,
+          "bounding_box": {
+            "left": 926,
+            "top": 1419,
+            "width": 62,
+            "height": 67
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 10
+        },
+        {
+          "text": "G,(z)",
+          "confidence": 56.008682,
+          "bounding_box": {
+            "left": 1175,
+            "top": 1425,
+            "width": 94,
+            "height": 51
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 12
+        },
+        {
+          "text": "Trin",
+          "confidence": 4.158768,
+          "bounding_box": {
+            "left": 748,
+            "top": 1426,
+            "width": 88,
+            "height": 37
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 8
+        },
+        {
+          "text": "ones",
+          "confidence": 4.158768,
+          "bounding_box": {
+            "left": 851,
+            "top": 1444,
+            "width": 67,
+            "height": 20
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 9
+        }
+      ]
+    },
+    {
+      "region_id": "region_056",
+      "bounding_box": {
+        "left": 1518,
+        "top": 1423,
+        "width": 223,
+        "height": 40
+      },
+      "text": "eink. trainin",
+      "average_confidence": 46.26,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": "eink.",
+          "confidence": 50.526409,
+          "bounding_box": {
+            "left": 1518,
+            "top": 1423,
+            "width": 83,
+            "height": 40
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 13
+        },
+        {
+          "text": "trainin",
+          "confidence": 41.987839,
+          "bounding_box": {
+            "left": 1623,
+            "top": 1432,
+            "width": 118,
+            "height": 30
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 14
+        }
+      ]
+    },
+    {
+      "region_id": "region_057",
+      "bounding_box": {
+        "left": 68,
+        "top": 1424,
+        "width": 508,
+        "height": 42
+      },
+      "text": "© Xp X+ GE — noisy observations",
+      "average_confidence": 65.77,
+      "number_of_words": 7,
+      "words": [
+        {
+          "text": "observations",
+          "confidence": 96.847397,
+          "bounding_box": {
+            "left": 411,
+            "top": 1424,
+            "width": 165,
+            "height": 26
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 7
+        },
+        {
+          "text": "Xp",
+          "confidence": 15.595169,
+          "bounding_box": {
+            "left": 109,
+            "top": 1429,
+            "width": 39,
+            "height": 30
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 2
+        },
+        {
+          "text": "GE",
+          "confidence": 91.783882,
+          "bounding_box": {
+            "left": 247,
+            "top": 1429,
+            "width": 43,
+            "height": 35
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 4
+        },
+        {
+          "text": "X+",
+          "confidence": 43.578266,
+          "bounding_box": {
+            "left": 181,
+            "top": 1431,
+            "width": 57,
+            "height": 25
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 3
+        },
+        {
+          "text": "noisy",
+          "confidence": 96.778519,
+          "bounding_box": {
+            "left": 337,
+            "top": 1431,
+            "width": 66,
+            "height": 35
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 6
+        },
+        {
+          "text": "©",
+          "confidence": 23.179482,
+          "bounding_box": {
+            "left": 68,
+            "top": 1435,
+            "width": 8,
+            "height": 9
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 1
+        },
+        {
+          "text": "—",
+          "confidence": 92.611458,
+          "bounding_box": {
+            "left": 305,
+            "top": 1440,
+            "width": 20,
+            "height": 2
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 7,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_058",
+      "bounding_box": {
+        "left": 58,
+        "top": 1473,
+        "width": 559,
+        "height": 84
+      },
+      "text": "Training (Denoising Score Mateing )",
+      "average_confidence": 68.85,
+      "number_of_words": 5,
+      "words": [
+        {
+          "text": "Training",
+          "confidence": 94.844688,
+          "bounding_box": {
+            "left": 58,
+            "top": 1473,
+            "width": 155,
+            "height": 84
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 1
+        },
+        {
+          "text": "Mateing",
+          "confidence": 41.82991,
+          "bounding_box": {
+            "left": 477,
+            "top": 1475,
+            "width": 114,
+            "height": 64
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 4
+        },
+        {
+          "text": ")",
+          "confidence": 92.219284,
+          "bounding_box": {
+            "left": 606,
+            "top": 1475,
+            "width": 11,
+            "height": 64
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 5
+        },
+        {
+          "text": "(Denoising",
+          "confidence": 40.378853,
+          "bounding_box": {
+            "left": 225,
+            "top": 1478,
+            "width": 154,
+            "height": 65
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 2
+        },
+        {
+          "text": "Score",
+          "confidence": 74.996017,
+          "bounding_box": {
+            "left": 394,
+            "top": 1491,
+            "width": 72,
+            "height": 30
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_059",
+      "bounding_box": {
+        "left": 797,
+        "top": 1486,
+        "width": 427,
+        "height": 81
+      },
+      "text": "(6) fis KL(4 edt",
+      "average_confidence": 27.93,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "fis",
+          "confidence": 53.031151,
+          "bounding_box": {
+            "left": 911,
+            "top": 1486,
+            "width": 53,
+            "height": 81
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 9
+        },
+        {
+          "text": "(6)",
+          "confidence": 36.125519,
+          "bounding_box": {
+            "left": 797,
+            "top": 1487,
+            "width": 78,
+            "height": 72
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 7
+        },
+        {
+          "text": "edt",
+          "confidence": 14.915047,
+          "bounding_box": {
+            "left": 1118,
+            "top": 1508,
+            "width": 106,
+            "height": 53
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 11
+        },
+        {
+          "text": "KL(4",
+          "confidence": 7.657074,
+          "bounding_box": {
+            "left": 979,
+            "top": 1509,
+            "width": 99,
+            "height": 50
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 10
+        }
+      ]
+    },
+    {
+      "region_id": "region_060",
+      "bounding_box": {
+        "left": 1348,
+        "top": 1519,
+        "width": 628,
+        "height": 120
+      },
+      "text": "+ 2 ( bs J\n! 15 Foy ae ab ys",
+      "average_confidence": 39.71,
+      "number_of_words": 11,
+      "words": [
+        {
+          "text": "J",
+          "confidence": 47.824894,
+          "bounding_box": {
+            "left": 1758,
+            "top": 1519,
+            "width": 32,
+            "height": 45
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 16
+        },
+        {
+          "text": "2",
+          "confidence": 23.619156,
+          "bounding_box": {
+            "left": 1597,
+            "top": 1522,
+            "width": 11,
+            "height": 21
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 13
+        },
+        {
+          "text": "(",
+          "confidence": 56.220863,
+          "bounding_box": {
+            "left": 1623,
+            "top": 1524,
+            "width": 12,
+            "height": 43
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 14
+        },
+        {
+          "text": "+",
+          "confidence": 68.750229,
+          "bounding_box": {
+            "left": 1370,
+            "top": 1526,
+            "width": 18,
+            "height": 18
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 12
+        },
+        {
+          "text": "bs",
+          "confidence": 36.95401,
+          "bounding_box": {
+            "left": 1670,
+            "top": 1531,
+            "width": 58,
+            "height": 32
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 15
+        },
+        {
+          "text": "ae",
+          "confidence": 32.042252,
+          "bounding_box": {
+            "left": 1670,
+            "top": 1533,
+            "width": 124,
+            "height": 87
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 9
+        },
+        {
+          "text": "15",
+          "confidence": 49.671028,
+          "bounding_box": {
+            "left": 1380,
+            "top": 1534,
+            "width": 35,
+            "height": 105
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 6
+        },
+        {
+          "text": "Foy",
+          "confidence": 42.806244,
+          "bounding_box": {
+            "left": 1441,
+            "top": 1534,
+            "width": 123,
+            "height": 105
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 7
+        },
+        {
+          "text": "!",
+          "confidence": 12.099678,
+          "bounding_box": {
+            "left": 1348,
+            "top": 1539,
+            "width": 28,
+            "height": 65
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 5
+        },
+        {
+          "text": "ab",
+          "confidence": 50.905613,
+          "bounding_box": {
+            "left": 1815,
+            "top": 1549,
+            "width": 87,
+            "height": 39
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 10
+        },
+        {
+          "text": "ys",
+          "confidence": 15.879135,
+          "bounding_box": {
+            "left": 1915,
+            "top": 1557,
+            "width": 61,
+            "height": 52
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 11
+        }
+      ]
+    },
+    {
+      "region_id": "region_061",
+      "bounding_box": {
+        "left": 756,
+        "top": 1532,
+        "width": 7,
+        "height": 8
+      },
+      "text": ":",
+      "average_confidence": 16.21,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": ":",
+          "confidence": 16.205711,
+          "bounding_box": {
+            "left": 756,
+            "top": 1532,
+            "width": 7,
+            "height": 8
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_062",
+      "bounding_box": {
+        "left": 887,
+        "top": 1533,
+        "width": 83,
+        "height": 45
+      },
+      "text": ".\n7",
+      "average_confidence": 23.2,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 26.057739,
+          "bounding_box": {
+            "left": 887,
+            "top": 1533,
+            "width": 12,
+            "height": 11
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 8,
+          "word_num": 8
+        },
+        {
+          "text": "7",
+          "confidence": 20.338921,
+          "bounding_box": {
+            "left": 919,
+            "top": 1542,
+            "width": 51,
+            "height": 36
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_063",
+      "bounding_box": {
+        "left": 69,
+        "top": 1568,
+        "width": 574,
+        "height": 100
+      },
+      "text": "' e.)- x,\n: Ip E seangl YH) xol ae» min",
+      "average_confidence": 19.72,
+      "number_of_words": 11,
+      "words": [
+        {
+          "text": "'",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 120,
+            "top": 1568,
+            "width": 18,
+            "height": 17
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 1
+        },
+        {
+          "text": "x,",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 505,
+            "top": 1576,
+            "width": 11,
+            "height": 15
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 3
+        },
+        {
+          "text": "seangl",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 202,
+            "top": 1582,
+            "width": 121,
+            "height": 86
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 4
+        },
+        {
+          "text": "Ip",
+          "confidence": 44.173946,
+          "bounding_box": {
+            "left": 107,
+            "top": 1585,
+            "width": 58,
+            "height": 68
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 2
+        },
+        {
+          "text": "e.)-",
+          "confidence": 8.568848,
+          "bounding_box": {
+            "left": 357,
+            "top": 1585,
+            "width": 14,
+            "height": 18
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 2
+        },
+        {
+          "text": "xol",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 453,
+            "top": 1587,
+            "width": 51,
+            "height": 50
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 6
+        },
+        {
+          "text": "E",
+          "confidence": 17.33252,
+          "bounding_box": {
+            "left": 175,
+            "top": 1594,
+            "width": 20,
+            "height": 39
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 3
+        },
+        {
+          "text": "YH)",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 343,
+            "top": 1594,
+            "width": 83,
+            "height": 52
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 5
+        },
+        {
+          "text": "ae»",
+          "confidence": 50.45414,
+          "bounding_box": {
+            "left": 515,
+            "top": 1599,
+            "width": 64,
+            "height": 31
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 7
+        },
+        {
+          "text": "min",
+          "confidence": 96.39267,
+          "bounding_box": {
+            "left": 589,
+            "top": 1604,
+            "width": 54,
+            "height": 46
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 8
+        },
+        {
+          "text": ":",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 69,
+            "top": 1608,
+            "width": 9,
+            "height": 8
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_064",
+      "bounding_box": {
+        "left": 1578,
+        "top": 1580,
+        "width": 186,
+        "height": 53
+      },
+      "text": "P Gy a)+G!\n=",
+      "average_confidence": 49.43,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "=",
+          "confidence": 34.134705,
+          "bounding_box": {
+            "left": 1594,
+            "top": 1580,
+            "width": 40,
+            "height": 41
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 9,
+          "word_num": 8
+        },
+        {
+          "text": "Gy",
+          "confidence": 92.984077,
+          "bounding_box": {
+            "left": 1631,
+            "top": 1580,
+            "width": 37,
+            "height": 53
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 14
+        },
+        {
+          "text": "P",
+          "confidence": 70.588196,
+          "bounding_box": {
+            "left": 1578,
+            "top": 1588,
+            "width": 21,
+            "height": 38
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 13
+        },
+        {
+          "text": "a)+G!",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1682,
+            "top": 1590,
+            "width": 82,
+            "height": 34
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 15
+        }
+      ]
+    },
+    {
+      "region_id": "region_065",
+      "bounding_box": {
+        "left": 1010,
+        "top": 1590,
+        "width": 118,
+        "height": 87
+      },
+      "text": "Gdvag",
+      "average_confidence": 0.0,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Gdvag",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1010,
+            "top": 1590,
+            "width": 118,
+            "height": 87
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 10
+        }
+      ]
+    },
+    {
+      "region_id": "region_066",
+      "bounding_box": {
+        "left": 1473,
+        "top": 1607,
+        "width": 5,
+        "height": 9
+      },
+      "text": ";",
+      "average_confidence": 49.8,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": ";",
+          "confidence": 49.79874,
+          "bounding_box": {
+            "left": 1473,
+            "top": 1607,
+            "width": 5,
+            "height": 9
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 12
+        }
+      ]
+    },
+    {
+      "region_id": "region_067",
+      "bounding_box": {
+        "left": 1351,
+        "top": 1608,
+        "width": 17,
+        "height": 15
+      },
+      "text": "I",
+      "average_confidence": 32.78,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "I",
+          "confidence": 32.784966,
+          "bounding_box": {
+            "left": 1351,
+            "top": 1608,
+            "width": 17,
+            "height": 15
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 11
+        }
+      ]
+    },
+    {
+      "region_id": "region_068",
+      "bounding_box": {
+        "left": 803,
+        "top": 1661,
+        "width": 468,
+        "height": 51
+      },
+      "text": "|\nVY L(0) = (S9C-)- S\"C)) Vy Gol)",
+      "average_confidence": 44.73,
+      "number_of_words": 8,
+      "words": [
+        {
+          "text": "|",
+          "confidence": 60.609154,
+          "bounding_box": {
+            "left": 951,
+            "top": 1661,
+            "width": 7,
+            "height": 51
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 10,
+          "word_num": 9
+        },
+        {
+          "text": "S\"C))",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1064,
+            "top": 1665,
+            "width": 79,
+            "height": 41
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 5
+        },
+        {
+          "text": "L(0)",
+          "confidence": 70.839401,
+          "bounding_box": {
+            "left": 840,
+            "top": 1668,
+            "width": 66,
+            "height": 35
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 2
+        },
+        {
+          "text": "(S9C-)-",
+          "confidence": 5.65406,
+          "bounding_box": {
+            "left": 966,
+            "top": 1669,
+            "width": 87,
+            "height": 40
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 4
+        },
+        {
+          "text": "Gol)",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1200,
+            "top": 1669,
+            "width": 71,
+            "height": 38
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 7
+        },
+        {
+          "text": "VY",
+          "confidence": 71.481354,
+          "bounding_box": {
+            "left": 803,
+            "top": 1674,
+            "width": 29,
+            "height": 33
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 1
+        },
+        {
+          "text": "Vy",
+          "confidence": 64.480232,
+          "bounding_box": {
+            "left": 1165,
+            "top": 1676,
+            "width": 27,
+            "height": 32
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 6
+        },
+        {
+          "text": "=",
+          "confidence": 84.774879,
+          "bounding_box": {
+            "left": 922,
+            "top": 1681,
+            "width": 18,
+            "height": 16
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_069",
+      "bounding_box": {
+        "left": 1430,
+        "top": 1691,
+        "width": 445,
+        "height": 89
+      },
+      "text": "= matt .\n.l Q Ge s) Gee |\nLL — G,@)]",
+      "average_confidence": 35.02,
+      "number_of_words": 12,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 72.585892,
+          "bounding_box": {
+            "left": 1864,
+            "top": 1691,
+            "width": 11,
+            "height": 14
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 10
+        },
+        {
+          "text": "matt",
+          "confidence": 26.857826,
+          "bounding_box": {
+            "left": 1536,
+            "top": 1695,
+            "width": 14,
+            "height": 16
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 9
+        },
+        {
+          "text": "=",
+          "confidence": 26.499496,
+          "bounding_box": {
+            "left": 1430,
+            "top": 1696,
+            "width": 25,
+            "height": 5
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 8
+        },
+        {
+          "text": "Ge",
+          "confidence": 76.734406,
+          "bounding_box": {
+            "left": 1552,
+            "top": 1697,
+            "width": 69,
+            "height": 52
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 15
+        },
+        {
+          "text": "s)",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1667,
+            "top": 1697,
+            "width": 43,
+            "height": 52
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 16
+        },
+        {
+          "text": "|",
+          "confidence": 55.137028,
+          "bounding_box": {
+            "left": 1853,
+            "top": 1697,
+            "width": 9,
+            "height": 51
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 18
+        },
+        {
+          "text": ".l",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1448,
+            "top": 1698,
+            "width": 45,
+            "height": 74
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 13
+        },
+        {
+          "text": "Q",
+          "confidence": 35.323837,
+          "bounding_box": {
+            "left": 1505,
+            "top": 1698,
+            "width": 33,
+            "height": 63
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 14
+        },
+        {
+          "text": "—",
+          "confidence": 60.217529,
+          "bounding_box": {
+            "left": 1739,
+            "top": 1698,
+            "width": 14,
+            "height": 50
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 6
+        },
+        {
+          "text": "LL",
+          "confidence": 29.38588,
+          "bounding_box": {
+            "left": 1430,
+            "top": 1699,
+            "width": 28,
+            "height": 51
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 4
+        },
+        {
+          "text": "Gee",
+          "confidence": 1.809273,
+          "bounding_box": {
+            "left": 1765,
+            "top": 1700,
+            "width": 66,
+            "height": 80
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 17
+        },
+        {
+          "text": "G,@)]",
+          "confidence": 35.685364,
+          "bounding_box": {
+            "left": 1805,
+            "top": 1704,
+            "width": 38,
+            "height": 34
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 7
+        }
+      ]
+    },
+    {
+      "region_id": "region_070",
+      "bounding_box": {
+        "left": 1962,
+        "top": 1704,
+        "width": 4,
+        "height": 4
+      },
+      "text": ".",
+      "average_confidence": 75.31,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": ".",
+          "confidence": 75.305367,
+          "bounding_box": {
+            "left": 1962,
+            "top": 1704,
+            "width": 4,
+            "height": 4
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 11,
+          "word_num": 11
+        }
+      ]
+    },
+    {
+      "region_id": "region_071",
+      "bounding_box": {
+        "left": 67,
+        "top": 1706,
+        "width": 603,
+        "height": 91
+      },
+      "text": "fee 9 ss\n. Se) a Ye) 7 Valos Ro",
+      "average_confidence": 30.66,
+      "number_of_words": 10,
+      "words": [
+        {
+          "text": "ss",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 460,
+            "top": 1706,
+            "width": 19,
+            "height": 50
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 3
+        },
+        {
+          "text": "fee",
+          "confidence": 38.733521,
+          "bounding_box": {
+            "left": 157,
+            "top": 1707,
+            "width": 77,
+            "height": 33
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 1
+        },
+        {
+          "text": "Se)",
+          "confidence": 15.598373,
+          "bounding_box": {
+            "left": 111,
+            "top": 1714,
+            "width": 104,
+            "height": 58
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 2
+        },
+        {
+          "text": "a",
+          "confidence": 15.598373,
+          "bounding_box": {
+            "left": 255,
+            "top": 1714,
+            "width": 16,
+            "height": 63
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 3
+        },
+        {
+          "text": "Valos",
+          "confidence": 21.783356,
+          "bounding_box": {
+            "left": 503,
+            "top": 1715,
+            "width": 78,
+            "height": 82
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 6
+        },
+        {
+          "text": "Ye)",
+          "confidence": 46.861694,
+          "bounding_box": {
+            "left": 299,
+            "top": 1719,
+            "width": 144,
+            "height": 57
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 4
+        },
+        {
+          "text": "9",
+          "confidence": 81.361549,
+          "bounding_box": {
+            "left": 320,
+            "top": 1722,
+            "width": 12,
+            "height": 15
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 2
+        },
+        {
+          "text": "Ro",
+          "confidence": 39.151459,
+          "bounding_box": {
+            "left": 601,
+            "top": 1730,
+            "width": 69,
+            "height": 50
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 7
+        },
+        {
+          "text": ".",
+          "confidence": 37.587093,
+          "bounding_box": {
+            "left": 67,
+            "top": 1737,
+            "width": 9,
+            "height": 10
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 1
+        },
+        {
+          "text": "7",
+          "confidence": 9.893967,
+          "bounding_box": {
+            "left": 463,
+            "top": 1746,
+            "width": 18,
+            "height": 7
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_072",
+      "bounding_box": {
+        "left": 1384,
+        "top": 1706,
+        "width": 34,
+        "height": 43
+      },
+      "text": "A",
+      "average_confidence": 39.47,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "A",
+          "confidence": 39.465885,
+          "bounding_box": {
+            "left": 1384,
+            "top": 1706,
+            "width": 34,
+            "height": 43
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 12
+        }
+      ]
+    },
+    {
+      "region_id": "region_073",
+      "bounding_box": {
+        "left": 1598,
+        "top": 1708,
+        "width": 149,
+        "height": 31
+      },
+      "text": "@)+6,¢)",
+      "average_confidence": 52.82,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "@)+6,¢)",
+          "confidence": 52.816628,
+          "bounding_box": {
+            "left": 1598,
+            "top": 1708,
+            "width": 149,
+            "height": 31
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_074",
+      "bounding_box": {
+        "left": 1889,
+        "top": 1713,
+        "width": 103,
+        "height": 40
+      },
+      "text": "> min\n%",
+      "average_confidence": 53.55,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "min",
+          "confidence": 85.880638,
+          "bounding_box": {
+            "left": 1926,
+            "top": 1713,
+            "width": 66,
+            "height": 20
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 9
+        },
+        {
+          "text": ">",
+          "confidence": 74.776154,
+          "bounding_box": {
+            "left": 1889,
+            "top": 1718,
+            "width": 22,
+            "height": 15
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 12,
+          "word_num": 8
+        },
+        {
+          "text": "%",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1950,
+            "top": 1734,
+            "width": 18,
+            "height": 19
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 19
+        }
+      ]
+    },
+    {
+      "region_id": "region_075",
+      "bounding_box": {
+        "left": 992,
+        "top": 1717,
+        "width": 64,
+        "height": 73
+      },
+      "text": "Pa",
+      "average_confidence": 29.04,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Pa",
+          "confidence": 29.035912,
+          "bounding_box": {
+            "left": 992,
+            "top": 1717,
+            "width": 64,
+            "height": 73
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 10
+        }
+      ]
+    },
+    {
+      "region_id": "region_076",
+      "bounding_box": {
+        "left": 788,
+        "top": 1748,
+        "width": 118,
+        "height": 59
+      },
+      "text": "Replace",
+      "average_confidence": 67.42,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Replace",
+          "confidence": 67.415718,
+          "bounding_box": {
+            "left": 788,
+            "top": 1748,
+            "width": 118,
+            "height": 59
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 8
+        }
+      ]
+    },
+    {
+      "region_id": "region_077",
+      "bounding_box": {
+        "left": 1067,
+        "top": 1764,
+        "width": 52,
+        "height": 34
+      },
+      "text": "sto",
+      "average_confidence": 38.11,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "sto",
+          "confidence": 38.110741,
+          "bounding_box": {
+            "left": 1067,
+            "top": 1764,
+            "width": 52,
+            "height": 34
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 11
+        }
+      ]
+    },
+    {
+      "region_id": "region_078",
+      "bounding_box": {
+        "left": 918,
+        "top": 1767,
+        "width": 60,
+        "height": 21
+      },
+      "text": "scl",
+      "average_confidence": 28.28,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "scl",
+          "confidence": 28.281784,
+          "bounding_box": {
+            "left": 918,
+            "top": 1767,
+            "width": 60,
+            "height": 21
+          },
+          "block_num": 24,
+          "par_num": 1,
+          "line_num": 13,
+          "word_num": 9
+        }
+      ]
+    },
+    {
+      "region_id": "region_079",
+      "bounding_box": {
+        "left": 456,
+        "top": 1850,
+        "width": 1169,
+        "height": 92
+      },
+      "text": "Regularized Distribution Matching Distillation",
+      "average_confidence": 63.3,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Regularized",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 456,
+            "top": 1850,
+            "width": 308,
+            "height": 88
+          },
+          "block_num": 28,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "Matching",
+          "confidence": 69.807777,
+          "bounding_box": {
+            "left": 1102,
+            "top": 1853,
+            "width": 212,
+            "height": 89
+          },
+          "block_num": 28,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "Distribution",
+          "confidence": 88.389267,
+          "bounding_box": {
+            "left": 787,
+            "top": 1862,
+            "width": 296,
+            "height": 49
+          },
+          "block_num": 28,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "Distillation",
+          "confidence": 95.014595,
+          "bounding_box": {
+            "left": 1330,
+            "top": 1863,
+            "width": 295,
+            "height": 51
+          },
+          "block_num": 28,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_080",
+      "bounding_box": {
+        "left": 1227,
+        "top": 1942,
+        "width": 647,
+        "height": 76
+      },
+      "text": "Comparison. with diffusion baselines",
+      "average_confidence": 79.07,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Comparison.",
+          "confidence": 84.032684,
+          "bounding_box": {
+            "left": 1227,
+            "top": 1942,
+            "width": 218,
+            "height": 76
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        },
+        {
+          "text": "baselines",
+          "confidence": 93.268524,
+          "bounding_box": {
+            "left": 1724,
+            "top": 1955,
+            "width": 150,
+            "height": 37
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 8
+        },
+        {
+          "text": "diffusion",
+          "confidence": 45.448189,
+          "bounding_box": {
+            "left": 1547,
+            "top": 1960,
+            "width": 157,
+            "height": 34
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 7
+        },
+        {
+          "text": "with",
+          "confidence": 93.54187,
+          "bounding_box": {
+            "left": 1456,
+            "top": 1966,
+            "width": 72,
+            "height": 28
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        }
+      ]
+    },
+    {
+      "region_id": "region_081",
+      "bounding_box": {
+        "left": 304,
+        "top": 1948,
+        "width": 497,
+        "height": 64
+      },
+      "text": "Modified objective for I2T",
+      "average_confidence": 76.95,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Modified",
+          "confidence": 80.212387,
+          "bounding_box": {
+            "left": 304,
+            "top": 1948,
+            "width": 150,
+            "height": 56
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "for",
+          "confidence": 55.186752,
+          "bounding_box": {
+            "left": 654,
+            "top": 1952,
+            "width": 54,
+            "height": 43
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "I2T",
+          "confidence": 75.545319,
+          "bounding_box": {
+            "left": 726,
+            "top": 1959,
+            "width": 75,
+            "height": 35
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        },
+        {
+          "text": "objective",
+          "confidence": 96.850281,
+          "bounding_box": {
+            "left": 475,
+            "top": 1962,
+            "width": 153,
+            "height": 50
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_082",
+      "bounding_box": {
+        "left": 853,
+        "top": 2041,
+        "width": 242,
+        "height": 74
+      },
+      "text": "0) > min",
+      "average_confidence": 48.94,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "0)",
+          "confidence": 36.807476,
+          "bounding_box": {
+            "left": 853,
+            "top": 2041,
+            "width": 95,
+            "height": 66
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 10
+        },
+        {
+          "text": "min",
+          "confidence": 71.309639,
+          "bounding_box": {
+            "left": 1027,
+            "top": 2058,
+            "width": 68,
+            "height": 57
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 12
+        },
+        {
+          "text": ">",
+          "confidence": 38.704029,
+          "bounding_box": {
+            "left": 974,
+            "top": 2060,
+            "width": 32,
+            "height": 20
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 11
+        }
+      ]
+    },
+    {
+      "region_id": "region_083",
+      "bounding_box": {
+        "left": 70,
+        "top": 2043,
+        "width": 712,
+        "height": 96
+      },
+      "text": "+ L,(0) = [wi KL eT Jat + AES",
+      "average_confidence": 35.14,
+      "number_of_words": 9,
+      "words": [
+        {
+          "text": "[wi",
+          "confidence": 33.153557,
+          "bounding_box": {
+            "left": 260,
+            "top": 2043,
+            "width": 59,
+            "height": 77
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 4
+        },
+        {
+          "text": "AES",
+          "confidence": 36.723309,
+          "bounding_box": {
+            "left": 630,
+            "top": 2045,
+            "width": 152,
+            "height": 94
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 9
+        },
+        {
+          "text": "KL",
+          "confidence": 6.305374,
+          "bounding_box": {
+            "left": 328,
+            "top": 2051,
+            "width": 101,
+            "height": 51
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 5
+        },
+        {
+          "text": "Jat",
+          "confidence": 40.449223,
+          "bounding_box": {
+            "left": 518,
+            "top": 2051,
+            "width": 55,
+            "height": 52
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 7
+        },
+        {
+          "text": "L,(0)",
+          "confidence": 20.731133,
+          "bounding_box": {
+            "left": 103,
+            "top": 2052,
+            "width": 109,
+            "height": 57
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 2
+        },
+        {
+          "text": "eT",
+          "confidence": 6.305374,
+          "bounding_box": {
+            "left": 444,
+            "top": 2052,
+            "width": 59,
+            "height": 48
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 6
+        },
+        {
+          "text": "+",
+          "confidence": 92.836929,
+          "bounding_box": {
+            "left": 590,
+            "top": 2071,
+            "width": 19,
+            "height": 20
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 8
+        },
+        {
+          "text": "+",
+          "confidence": 44.450459,
+          "bounding_box": {
+            "left": 70,
+            "top": 2072,
+            "width": 7,
+            "height": 7
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 1
+        },
+        {
+          "text": "=",
+          "confidence": 35.315437,
+          "bounding_box": {
+            "left": 238,
+            "top": 2073,
+            "width": 15,
+            "height": 15
+          },
+          "block_num": 31,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_084",
+      "bounding_box": {
+        "left": 1158,
+        "top": 2049,
+        "width": 18,
+        "height": 42
+      },
+      "text": "Input",
+      "average_confidence": 95.84,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "Input",
+          "confidence": 95.836136,
+          "bounding_box": {
+            "left": 1158,
+            "top": 2049,
+            "width": 18,
+            "height": 42
+          },
+          "block_num": 33,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_085",
+      "bounding_box": {
+        "left": 58,
+        "top": 2138,
+        "width": 844,
+        "height": 73
+      },
+      "text": "Thm Let G be the optimal strlen oe x and",
+      "average_confidence": 70.12,
+      "number_of_words": 10,
+      "words": [
+        {
+          "text": "Thm",
+          "confidence": 93.922195,
+          "bounding_box": {
+            "left": 58,
+            "top": 2138,
+            "width": 99,
+            "height": 62
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "oe",
+          "confidence": 39.708588,
+          "bounding_box": {
+            "left": 738,
+            "top": 2150,
+            "width": 43,
+            "height": 41
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 8
+        },
+        {
+          "text": "x",
+          "confidence": 15.239136,
+          "bounding_box": {
+            "left": 794,
+            "top": 2152,
+            "width": 43,
+            "height": 50
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 9
+        },
+        {
+          "text": "Let",
+          "confidence": 87.839272,
+          "bounding_box": {
+            "left": 196,
+            "top": 2154,
+            "width": 57,
+            "height": 37
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "and",
+          "confidence": 96.924423,
+          "bounding_box": {
+            "left": 844,
+            "top": 2156,
+            "width": 58,
+            "height": 36
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 10
+        },
+        {
+          "text": "be",
+          "confidence": 96.435463,
+          "bounding_box": {
+            "left": 324,
+            "top": 2157,
+            "width": 35,
+            "height": 34
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        },
+        {
+          "text": "G",
+          "confidence": 69.706223,
+          "bounding_box": {
+            "left": 276,
+            "top": 2158,
+            "width": 19,
+            "height": 32
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "the",
+          "confidence": 85.034637,
+          "bounding_box": {
+            "left": 374,
+            "top": 2159,
+            "width": 60,
+            "height": 32
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        },
+        {
+          "text": "optimal",
+          "confidence": 93.711189,
+          "bounding_box": {
+            "left": 451,
+            "top": 2159,
+            "width": 123,
+            "height": 52
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        },
+        {
+          "text": "strlen",
+          "confidence": 22.654915,
+          "bounding_box": {
+            "left": 608,
+            "top": 2162,
+            "width": 117,
+            "height": 29
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 7
+        }
+      ]
+    },
+    {
+      "region_id": "region_086",
+      "bounding_box": {
+        "left": 1158,
+        "top": 2141,
+        "width": 14,
+        "height": 57
+      },
+      "text": "RDMD",
+      "average_confidence": 91.77,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "RDMD",
+          "confidence": 91.767563,
+          "bounding_box": {
+            "left": 1158,
+            "top": 2141,
+            "width": 14,
+            "height": 57
+          },
+          "block_num": 39,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_087",
+      "bounding_box": {
+        "left": 76,
+        "top": 2208,
+        "width": 929,
+        "height": 79
+      },
+      "text": "G be the OT map. Then, under reg-conditions G a\nd»\\-0",
+      "average_confidence": 79.74,
+      "number_of_words": 11,
+      "words": [
+        {
+          "text": "Then,",
+          "confidence": 85.782478,
+          "bounding_box": {
+            "left": 402,
+            "top": 2208,
+            "width": 72,
+            "height": 67
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 6
+        },
+        {
+          "text": "under",
+          "confidence": 85.782478,
+          "bounding_box": {
+            "left": 486,
+            "top": 2208,
+            "width": 83,
+            "height": 67
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 7
+        },
+        {
+          "text": "G",
+          "confidence": 76.986389,
+          "bounding_box": {
+            "left": 837,
+            "top": 2211,
+            "width": 44,
+            "height": 45
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 9
+        },
+        {
+          "text": "G",
+          "confidence": 92.972298,
+          "bounding_box": {
+            "left": 76,
+            "top": 2212,
+            "width": 36,
+            "height": 39
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 1
+        },
+        {
+          "text": "reg-conditions",
+          "confidence": 74.39006,
+          "bounding_box": {
+            "left": 580,
+            "top": 2216,
+            "width": 236,
+            "height": 71
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 8
+        },
+        {
+          "text": "a",
+          "confidence": 36.049072,
+          "bounding_box": {
+            "left": 959,
+            "top": 2217,
+            "width": 46,
+            "height": 41
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 10
+        },
+        {
+          "text": "be",
+          "confidence": 96.177994,
+          "bounding_box": {
+            "left": 121,
+            "top": 2218,
+            "width": 35,
+            "height": 34
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 2
+        },
+        {
+          "text": "the",
+          "confidence": 96.910805,
+          "bounding_box": {
+            "left": 171,
+            "top": 2218,
+            "width": 57,
+            "height": 34
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 3
+        },
+        {
+          "text": "OT",
+          "confidence": 96.40168,
+          "bounding_box": {
+            "left": 244,
+            "top": 2218,
+            "width": 53,
+            "height": 36
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 4
+        },
+        {
+          "text": "map.",
+          "confidence": 95.267616,
+          "bounding_box": {
+            "left": 312,
+            "top": 2233,
+            "width": 73,
+            "height": 38
+          },
+          "block_num": 32,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 5
+        },
+        {
+          "text": "d»\\-0",
+          "confidence": 40.468655,
+          "bounding_box": {
+            "left": 899,
+            "top": 2248,
+            "width": 42,
+            "height": 17
+          },
+          "block_num": 34,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_088",
+      "bounding_box": {
+        "left": 1158,
+        "top": 2235,
+        "width": 14,
+        "height": 68
+      },
+      "text": "EGSDE",
+      "average_confidence": 82.6,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "EGSDE",
+          "confidence": 82.599525,
+          "bounding_box": {
+            "left": 1158,
+            "top": 2235,
+            "width": 14,
+            "height": 68
+          },
+          "block_num": 39,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_089",
+      "bounding_box": {
+        "left": 1154,
+        "top": 2339,
+        "width": 22,
+        "height": 55
+      },
+      "text": "LVR)",
+      "average_confidence": 36.43,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "LVR)",
+          "confidence": 36.425858,
+          "bounding_box": {
+            "left": 1154,
+            "top": 2339,
+            "width": 22,
+            "height": 55
+          },
+          "block_num": 39,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        }
+      ]
+    },
+    {
+      "region_id": "region_090",
+      "bounding_box": {
+        "left": 100,
+        "top": 2420,
+        "width": 870,
+        "height": 127
+      },
+      "text": "E (620+ 48)\n{Eloy Frigieraey ** AE. (Get)",
+      "average_confidence": 19.87,
+      "number_of_words": 8,
+      "words": [
+        {
+          "text": "(620+",
+          "confidence": 26.135193,
+          "bounding_box": {
+            "left": 378,
+            "top": 2420,
+            "width": 106,
+            "height": 67
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "48)",
+          "confidence": 26.135193,
+          "bounding_box": {
+            "left": 495,
+            "top": 2420,
+            "width": 51,
+            "height": 67
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "E",
+          "confidence": 7.47789,
+          "bounding_box": {
+            "left": 121,
+            "top": 2431,
+            "width": 18,
+            "height": 17
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "Frigieraey",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 323,
+            "top": 2435,
+            "width": 232,
+            "height": 99
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 2
+        },
+        {
+          "text": "AE.",
+          "confidence": 34.674843,
+          "bounding_box": {
+            "left": 652,
+            "top": 2436,
+            "width": 80,
+            "height": 111
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 4
+        },
+        {
+          "text": "(Get)",
+          "confidence": 4.522766,
+          "bounding_box": {
+            "left": 774,
+            "top": 2440,
+            "width": 196,
+            "height": 84
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 6
+        },
+        {
+          "text": "{Eloy",
+          "confidence": 32.373306,
+          "bounding_box": {
+            "left": 100,
+            "top": 2443,
+            "width": 210,
+            "height": 86
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 1
+        },
+        {
+          "text": "**",
+          "confidence": 27.633713,
+          "bounding_box": {
+            "left": 567,
+            "top": 2454,
+            "width": 71,
+            "height": 39
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 3
+        }
+      ]
+    },
+    {
+      "region_id": "region_091",
+      "bounding_box": {
+        "left": 1157,
+        "top": 2427,
+        "width": 16,
+        "height": 61
+      },
+      "text": "SDEdit",
+      "average_confidence": 81.65,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "SDEdit",
+          "confidence": 81.654938,
+          "bounding_box": {
+            "left": 1157,
+            "top": 2427,
+            "width": 16,
+            "height": 61
+          },
+          "block_num": 39,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_092",
+      "bounding_box": {
+        "left": 759,
+        "top": 2468,
+        "width": 18,
+        "height": 56
+      },
+      "text": "5",
+      "average_confidence": 13.56,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "5",
+          "confidence": 13.557976,
+          "bounding_box": {
+            "left": 759,
+            "top": 2468,
+            "width": 18,
+            "height": 56
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_093",
+      "bounding_box": {
+        "left": 987,
+        "top": 2468,
+        "width": 109,
+        "height": 47
+      },
+      "text": "> my",
+      "average_confidence": 33.33,
+      "number_of_words": 2,
+      "words": [
+        {
+          "text": ">",
+          "confidence": 66.663788,
+          "bounding_box": {
+            "left": 987,
+            "top": 2468,
+            "width": 36,
+            "height": 21
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 7
+        },
+        {
+          "text": "my",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 1035,
+            "top": 2471,
+            "width": 61,
+            "height": 44
+          },
+          "block_num": 36,
+          "par_num": 1,
+          "line_num": 2,
+          "word_num": 8
+        }
+      ]
+    },
+    {
+      "region_id": "region_094",
+      "bounding_box": {
+        "left": 1325,
+        "top": 2585,
+        "width": 68,
+        "height": 7
+      },
+      "text": "2",
+      "average_confidence": 43.64,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "2",
+          "confidence": 43.637764,
+          "bounding_box": {
+            "left": 1325,
+            "top": 2585,
+            "width": 68,
+            "height": 7
+          },
+          "block_num": 41,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_095",
+      "bounding_box": {
+        "left": 100,
+        "top": 2588,
+        "width": 69,
+        "height": 84
+      },
+      "text": "[RE",
+      "average_confidence": 55.56,
+      "number_of_words": 1,
+      "words": [
+        {
+          "text": "[RE",
+          "confidence": 55.557259,
+          "bounding_box": {
+            "left": 100,
+            "top": 2588,
+            "width": 69,
+            "height": 84
+          },
+          "block_num": 42,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        }
+      ]
+    },
+    {
+      "region_id": "region_096",
+      "bounding_box": {
+        "left": 257,
+        "top": 2596,
+        "width": 499,
+        "height": 70
+      },
+      "text": "IQ'G0-6¢)- Geof myn",
+      "average_confidence": 24.95,
+      "number_of_words": 3,
+      "words": [
+        {
+          "text": "Geof",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 521,
+            "top": 2596,
+            "width": 156,
+            "height": 57
+          },
+          "block_num": 42,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        },
+        {
+          "text": "IQ'G0-6¢)-",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 257,
+            "top": 2600,
+            "width": 247,
+            "height": 66
+          },
+          "block_num": 42,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "myn",
+          "confidence": 74.841248,
+          "bounding_box": {
+            "left": 690,
+            "top": 2609,
+            "width": 66,
+            "height": 49
+          },
+          "block_num": 42,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        }
+      ]
+    },
+    {
+      "region_id": "region_097",
+      "bounding_box": {
+        "left": 1254,
+        "top": 2783,
+        "width": 594,
+        "height": 60
+      },
+      "text": "3. Constructor University, Bremen, Germany",
+      "average_confidence": 89.37,
+      "number_of_words": 5,
+      "words": [
+        {
+          "text": "Constructor",
+          "confidence": 96.296036,
+          "bounding_box": {
+            "left": 1285,
+            "top": 2783,
+            "width": 159,
+            "height": 36
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 10
+        },
+        {
+          "text": "University,",
+          "confidence": 92.545044,
+          "bounding_box": {
+            "left": 1450,
+            "top": 2783,
+            "width": 149,
+            "height": 60
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 11
+        },
+        {
+          "text": "Bremen,",
+          "confidence": 82.350815,
+          "bounding_box": {
+            "left": 1616,
+            "top": 2783,
+            "width": 97,
+            "height": 60
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 12
+        },
+        {
+          "text": "Germany",
+          "confidence": 82.350815,
+          "bounding_box": {
+            "left": 1726,
+            "top": 2789,
+            "width": 122,
+            "height": 50
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 13
+        },
+        {
+          "text": "3.",
+          "confidence": 93.320457,
+          "bounding_box": {
+            "left": 1254,
+            "top": 2795,
+            "width": 18,
+            "height": 22
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 9
+        }
+      ]
+    },
+    {
+      "region_id": "region_098",
+      "bounding_box": {
+        "left": 783,
+        "top": 2784,
+        "width": 353,
+        "height": 44
+      },
+      "text": "2. Sxoltech, Moscow, Russia",
+      "average_confidence": 76.64,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Sxoltech,",
+          "confidence": 40.200417,
+          "bounding_box": {
+            "left": 814,
+            "top": 2784,
+            "width": 128,
+            "height": 38
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 6
+        },
+        {
+          "text": "Russia",
+          "confidence": 94.642494,
+          "bounding_box": {
+            "left": 1063,
+            "top": 2784,
+            "width": 73,
+            "height": 44
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 8
+        },
+        {
+          "text": "Moscow,",
+          "confidence": 79.848923,
+          "bounding_box": {
+            "left": 950,
+            "top": 2788,
+            "width": 99,
+            "height": 36
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 7
+        },
+        {
+          "text": "2.",
+          "confidence": 91.878555,
+          "bounding_box": {
+            "left": 783,
+            "top": 2793,
+            "width": 20,
+            "height": 26
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 5
+        }
+      ]
+    },
+    {
+      "region_id": "region_099",
+      "bounding_box": {
+        "left": 184,
+        "top": 2789,
+        "width": 479,
+        "height": 45
+      },
+      "text": "4.HSE University Noscow, Russia",
+      "average_confidence": 60.29,
+      "number_of_words": 4,
+      "words": [
+        {
+          "text": "Russia",
+          "confidence": 96.2481,
+          "bounding_box": {
+            "left": 577,
+            "top": 2789,
+            "width": 86,
+            "height": 30
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 4
+        },
+        {
+          "text": "4.HSE",
+          "confidence": 54.853561,
+          "bounding_box": {
+            "left": 184,
+            "top": 2790,
+            "width": 92,
+            "height": 30
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 1
+        },
+        {
+          "text": "University",
+          "confidence": 90.065117,
+          "bounding_box": {
+            "left": 289,
+            "top": 2790,
+            "width": 147,
+            "height": 44
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 2
+        },
+        {
+          "text": "Noscow,",
+          "confidence": 0.0,
+          "bounding_box": {
+            "left": 446,
+            "top": 2791,
+            "width": 113,
+            "height": 35
+          },
+          "block_num": 44,
+          "par_num": 1,
+          "line_num": 1,
+          "word_num": 3
+        }
+      ]
+    }
+  ]
+}

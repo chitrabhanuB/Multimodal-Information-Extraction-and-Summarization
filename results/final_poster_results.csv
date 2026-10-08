@@ -1,0 +1,4 @@
+Poster,Title,Conference,Year,OCR Words,Filtered OCR,Spatial Lines,ROUGE-1,ROUGE-2,ROUGE-L
+1,Regularized Distribution Matching Distillation for One-step Unpaired Image-to-Image Translation,ICML,2024,225,69,16,0.3644859813084112,0.11320754716981132,0.15887850467289721
+2,Doubly Robust Augmented Transfer for Meta-Reinforcement Learning,NeurIPS,2023,462,314,22,0.5194174757281554,0.1951219512195122,0.2766990291262136
+3,Learning Best Combination for Efficient N:M Sparsity,NeurIPS,2022,7,7,2,0.27472527472527475,0.027624309392265196,0.11538461538461536

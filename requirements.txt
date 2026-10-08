@@ -1,0 +1,11 @@
+torch
+transformers>=4.49.0
+accelerate
+qwen-vl-utils
+datasets
+requests
+Pillow
+pytesseract
+rouge-score
+pandas
+streamlit
